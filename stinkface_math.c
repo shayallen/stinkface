@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void){
 
-	//A sweet picture of Stinkface the Robot
+	//A sweet picture of Stinkface the Robot and his awesomeness
 	printf("\n\n");
         printf("     o  o    \n");
         printf("     |__|    \n");
