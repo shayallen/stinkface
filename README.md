@@ -1,4 +1,4 @@
 stinkface
 =========
 
-Arithmetic testing robot for the kids
+Arithmetic testing robot for the kids.
